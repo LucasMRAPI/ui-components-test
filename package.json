@@ -1,0 +1,20 @@
+{
+  "name": "ui-components-test",
+  "version": "0.0.1",
+  "description": "ui-components-test is a tiny module to test components",
+  "main": "nuxt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasMRAPI/ui-components-test.git"
+  },
+  "keywords": [
+    "Nuxt3",
+    "ui",
+    "components"
+  ],
+  "author": "Lucapi",
+  "license": "ISC"
+}
